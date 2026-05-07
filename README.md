@@ -1,6 +1,20 @@
 # retail-sales-databricks-platform
 This project demonstrates a modern data platform built using Databricks and PySpark following the Medallion Architecture pattern.
 
+# Dataset
+
+The project is based on the Supermarket Sales dataset from Kaggle. The dataset simulates retail transactional data and is used as the raw ingestion source for the Bronze layer in the Medallion Architecture pipeline.
+
+The dataset includes:
+- Sales transactions
+- Product line information
+- Customer demographics
+- Revenue and quantity metrics
+- Branch and city-level data
+
+Source:
+https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
+
 # Data Quality Checks
 
 Implemented:
@@ -33,15 +47,3 @@ Implemented:
 - Managed Delta Lake tables
 - Performed data quality validation
 - Created analytics-ready datasets for BI reporting
-
-
-# Project Structure
-
-```text
-retail-sales-databricks-platform/
-│
-├── notebooks/
-├── sql/
-├── screenshots/
-└── README.md
-```
