@@ -14,16 +14,16 @@ Implemented:
 
 ## Sales by City
 
-![Sales by City](screenshots/sales_by_city.png)
+![Sales by City](screenshots/sales_by_city_plot.png)
 
 ## Monthly Revenue
 
-![Monthly Revenue](screenshots/monthly_revenue.png)
+![Monthly Revenue](screenshots/monthly_revenue_plot.png)
 
 
 ## Top Products
 
-![Top Products](screenshots/top_products.png)
+![Top Products](screenshots/top_products_plot.png)
 
 
 # Key Learnings
