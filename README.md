@@ -13,7 +13,7 @@ The dataset includes:
 - Branch and city-level data
 
 Source:
-https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
+https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales
 
 # Data Quality Checks
 
